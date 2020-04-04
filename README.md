@@ -1,4 +1,6 @@
-joda-time is faster than JDK on DatetimeFormat: ~5X
+joda-time is faster than JDK on DatetimeFormat under multiple thread testing: ~5X
+
+Below is 4 threads perf result on MacOS
 
 java -jar target/DatetimeFormatBench-1.0-SNAPSHOT-jar-with-dependencies.jar 
 
