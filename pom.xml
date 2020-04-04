@@ -61,7 +61,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>org.example.PerfTest</mainClass>
+                            <mainClass>net.local.test.Evaluator</mainClass>
                             <classpathPrefix>dep-jars</classpathPrefix>
                         </manifest>
                     </archive>
